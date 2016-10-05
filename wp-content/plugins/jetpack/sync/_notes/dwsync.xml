@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="class.jetpack-sync-actions.php" server="manpreetk.sgedu.site/www/" local="131178579413229362" remote="131177487000000000" Dst="0" />
+<file name="class.jetpack-sync-defaults.php" server="manpreetk.sgedu.site/www/" local="131178579413385606" remote="131177487000000000" Dst="0" />
+<file name="class.jetpack-sync-functions.php" server="manpreetk.sgedu.site/www/" local="131178579417760438" remote="131177487000000000" Dst="0" />
+<file name="class.jetpack-sync-json-deflate-array-codec.php" server="manpreetk.sgedu.site/www/" local="131178579423072734" remote="131177487000000000" Dst="0" />
+<file name="class.jetpack-sync-listener.php" server="manpreetk.sgedu.site/www/" local="131178579423228978" remote="131177487000000000" Dst="0" />
+<file name="class.jetpack-sync-module-attachments.php" server="manpreetk.sgedu.site/www/" local="131178579427760054" remote="131177487000000000" Dst="0" />
+<file name="class.jetpack-sync-module-callables.php" server="manpreetk.sgedu.site/www/" local="131178579433072350" remote="131177487000000000" Dst="0" />
+<file name="class.jetpack-sync-module-comments.php" server="manpreetk.sgedu.site/www/" local="131178579433072350" remote="131177487000000000" Dst="0" />
+<file name="class.jetpack-sync-module-constants.php" server="manpreetk.sgedu.site/www/" local="131178579437915914" remote="131177487000000000" Dst="0" />
+<file name="class.jetpack-sync-module-full-sync.php" server="manpreetk.sgedu.site/www/" local="131178579442915722" remote="131177487000000000" Dst="0" />
+<file name="class.jetpack-sync-module-meta.php" server="manpreetk.sgedu.site/www/" local="131178579442915722" remote="131177487000000000" Dst="0" />
+<file name="class.jetpack-sync-module-network-options.php" server="manpreetk.sgedu.site/www/" local="131178579447759286" remote="131177487000000000" Dst="0" />
+<file name="class.jetpack-sync-module-options.php" server="manpreetk.sgedu.site/www/" local="131178579452759094" remote="131177487000000000" Dst="0" />
+<file name="class.jetpack-sync-module-plugins.php" server="manpreetk.sgedu.site/www/" local="131178579452759094" remote="131177487000000000" Dst="0" />
+<file name="class.jetpack-sync-module-posts.php" server="manpreetk.sgedu.site/www/" local="131178579457602658" remote="131177487000000000" Dst="0" />
+<file name="class.jetpack-sync-module-protect.php" server="manpreetk.sgedu.site/www/" local="131178579462602466" remote="131177487000000000" Dst="0" />
+<file name="class.jetpack-sync-module-stats.php" server="manpreetk.sgedu.site/www/" local="131178579462602466" remote="131177487000000000" Dst="0" />
+<file name="class.jetpack-sync-module-terms.php" server="manpreetk.sgedu.site/www/" local="131178579467602274" remote="131177487000000000" Dst="0" />
+<file name="class.jetpack-sync-module-themes.php" server="manpreetk.sgedu.site/www/" local="131178579472445838" remote="131177487000000000" Dst="0" />
+<file name="class.jetpack-sync-module-updates.php" server="manpreetk.sgedu.site/www/" local="131178579472445838" remote="131177487000000000" Dst="0" />
+<file name="class.jetpack-sync-module-users.php" server="manpreetk.sgedu.site/www/" local="131178579477445646" remote="131177487000000000" Dst="0" />
+<file name="class.jetpack-sync-module.php" server="manpreetk.sgedu.site/www/" local="131178579482289210" remote="131177487000000000" Dst="0" />
+<file name="class.jetpack-sync-modules.php" server="manpreetk.sgedu.site/www/" local="131178579482445454" remote="131177487000000000" Dst="0" />
+<file name="class.jetpack-sync-queue.php" server="manpreetk.sgedu.site/www/" local="131178579487132774" remote="131177487000000000" Dst="0" />
+<file name="class.jetpack-sync-server.php" server="manpreetk.sgedu.site/www/" local="131178579492132582" remote="131177487000000000" Dst="0" />
+<file name="class.jetpack-sync-sender.php" server="manpreetk.sgedu.site/www/" local="131178579492288826" remote="131177487000000000" Dst="0" />
+<file name="class.jetpack-sync-settings.php" server="manpreetk.sgedu.site/www/" local="131178579497132390" remote="131177487000000000" Dst="0" />
+<file name="class.jetpack-sync-users.php" server="manpreetk.sgedu.site/www/" local="131178579502132198" remote="131177487000000000" Dst="0" />
+<file name="class.jetpack-sync-wp-replicastore.php" server="manpreetk.sgedu.site/www/" local="131178579504632102" remote="131177487000000000" Dst="0" />
+<file name="interface.jetpack-sync-codec.php" server="manpreetk.sgedu.site/www/" local="131178579506975762" remote="131177487000000000" Dst="0" />
+<file name="interface.jetpack-sync-replicastore.php" server="manpreetk.sgedu.site/www/" local="131178579511975570" remote="131177487000000000" Dst="0" />
+</dwsync>

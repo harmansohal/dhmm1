@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="class.jetpack-json-api-check-capabilities-endpoint.php" server="manpreetk.sgedu.site/www/" local="131178576645831534" remote="131177487000000000" Dst="0" />
+<file name="class.jetpack-json-api-core-endpoint.php" server="manpreetk.sgedu.site/www/" local="131178576655518662" remote="131177487000000000" Dst="0" />
+<file name="class.jetpack-json-api-core-modify-endpoint.php" server="manpreetk.sgedu.site/www/" local="131178576655518662" remote="131177487000000000" Dst="0" />
+<file name="class.jetpack-json-api-endpoint.php" server="manpreetk.sgedu.site/www/" local="131178576655674906" remote="131177487000000000" Dst="0" />
+<file name="class.jetpack-json-api-log-endpoint.php" server="manpreetk.sgedu.site/www/" local="131178576665518278" remote="131177487000000000" Dst="0" />
+<file name="class.jetpack-json-api-maybe-auto-update-endpoint.php" server="manpreetk.sgedu.site/www/" local="131178576665518278" remote="131177487000000000" Dst="0" />
+<file name="class.jetpack-json-api-modules-endpoint.php" server="manpreetk.sgedu.site/www/" local="131178576665518278" remote="131177487000000000" Dst="0" />
+<file name="class.jetpack-json-api-modules-get-endpoint.php" server="manpreetk.sgedu.site/www/" local="131178576675361650" remote="131177487000000000" Dst="0" />
+<file name="class.jetpack-json-api-modules-list-endpoint.php" server="manpreetk.sgedu.site/www/" local="131178576675361650" remote="131177487000000000" Dst="0" />
+<file name="class.jetpack-json-api-modules-modify-endpoint.php" server="manpreetk.sgedu.site/www/" local="131178576675361650" remote="131177487000000000" Dst="0" />
+<file name="class.jetpack-json-api-plugins-delete-endpoint.php" server="manpreetk.sgedu.site/www/" local="131178576685205022" remote="131177487000000000" Dst="0" />
+<file name="class.jetpack-json-api-plugins-endpoint.php" server="manpreetk.sgedu.site/www/" local="131178576685205022" remote="131177487000000000" Dst="0" />
+<file name="class.jetpack-json-api-plugins-get-endpoint.php" server="manpreetk.sgedu.site/www/" local="131178576685205022" remote="131177487000000000" Dst="0" />
+<file name="class.jetpack-json-api-plugins-list-endpoint.php" server="manpreetk.sgedu.site/www/" local="131178576695048394" remote="131177487000000000" Dst="0" />
+<file name="class.jetpack-json-api-plugins-install-endpoint.php" server="manpreetk.sgedu.site/www/" local="131178576695048394" remote="131177487000000000" Dst="0" />
+<file name="class.jetpack-json-api-plugins-modify-endpoint.php" server="manpreetk.sgedu.site/www/" local="131178576695204638" remote="131177487000000000" Dst="0" />
+<file name="class.jetpack-json-api-sync-endpoint.php" server="manpreetk.sgedu.site/www/" local="131178576704891766" remote="131177487000000000" Dst="0" />
+<file name="class.jetpack-json-api-themes-active-endpoint.php" server="manpreetk.sgedu.site/www/" local="131178576704891766" remote="131177487000000000" Dst="0" />
+<file name="class.jetpack-json-api-themes-delete-endpoint.php" server="manpreetk.sgedu.site/www/" local="131178576705048010" remote="131177487000000000" Dst="0" />
+<file name="class.jetpack-json-api-themes-get-endpoint.php" server="manpreetk.sgedu.site/www/" local="131178576714735138" remote="131177487000000000" Dst="0" />
+<file name="class.jetpack-json-api-themes-install-endpoint.php" server="manpreetk.sgedu.site/www/" local="131178576714891382" remote="131177487000000000" Dst="0" />
+<file name="class.jetpack-json-api-themes-list-endpoint.php" server="manpreetk.sgedu.site/www/" local="131178576724578510" remote="131177487000000000" Dst="0" />
+<file name="class.jetpack-json-api-themes-modify-endpoint.php" server="manpreetk.sgedu.site/www/" local="131178576724734754" remote="131177487000000000" Dst="0" />
+<file name="class.jetpack-json-api-themes-endpoint.php" server="manpreetk.sgedu.site/www/" local="131178576724734754" remote="131177487000000000" Dst="0" />
+<file name="class.jetpack-json-api-updates-status-endpoint.php" server="manpreetk.sgedu.site/www/" local="131178576734578126" remote="131177487000000000" Dst="0" />
+<file name="class.wpcom-json-api-update-option-endpoint.php" server="manpreetk.sgedu.site/www/" local="131178576743327790" remote="131177487000000000" Dst="0" />
+<file name="class.wpcom-json-api-get-option-endpoint.php" server="manpreetk.sgedu.site/www/" local="131178576743640278" remote="131177487000000000" Dst="0" />
+<file name="json-api-jetpack-endpoints.php" server="manpreetk.sgedu.site/www/" local="131178576751452478" remote="131177487000000000" Dst="0" />
+</dwsync>
